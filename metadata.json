@@ -1,0 +1,6 @@
+{
+  "name": "Kanairo: Mtaa Hustle",
+  "description": "A top-down 2D open-world Nairobi street-life RPG. Hustle from Ksh 200 in Kayole to CBD, drive matatus, dodge Kanjo and police, build cred, and shape your destiny.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
